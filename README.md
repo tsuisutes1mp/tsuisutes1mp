@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Melodi's Slow Progress ฅ^•ﻌ•^ฅ</h1>
+
+Hi, there isn't much to see here yet, but thank you for visiting anyway :D
+
+### School Modules
+[![DFAB Module AY2021/22](https://github-readme-stats.vercel.app/api?username=tsuisutes1mp)]([https://github.com/tsuisutes1mp/](https://github.com/tsuisutes1mp/dfab-ay2021-s2-project))
+
+### Nothing Better To Do
+[![ASM Calculator Practice](https://github-readme-stats.vercel.app/api?username=tsuisutes1mp)]([https://github.com/tsuisutes1mp/]([https://github.com/tsuisutes1mp/dfab-ay2021-s2-project](https://github.com/tsuisutes1mp/asm-calculator)))
 
 <!--
 **tsuisutes1mp/tsuisutes1mp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
